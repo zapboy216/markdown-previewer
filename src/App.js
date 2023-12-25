@@ -15,14 +15,12 @@ function App() {
 [Visit GitHub](https://github.com)
 
 `<div>some inline code</div>`
-
-
           </textarea>
         </div>
         <div className="col-md-6">
           <h2>Preview</h2>
           <div id="preview" className="border p-3">
-            {/* Rendered HTML from markdown will go here */}
+            {/* Rendered HTML from should go here */}
           </div>
         </div>
       </div>
