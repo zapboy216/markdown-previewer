@@ -5,6 +5,11 @@ function App() {
   return (
     <div className="container mt-5">
       <div className="row">
+        <div className="col-12 text-center mb-4">
+          <h2>Impressive Markdown Previewer</h2>
+        </div>
+      </div>
+      <div className="row">
         <div className="col-md-6">
           <h2>Editor</h2>
           <textarea id="editor" className="form-control" rows="10">
