@@ -7,6 +7,7 @@ function App() {
       <div className="row">
         <div className="col-12 text-center mb-4">
           <h2>Impressive Markdown Previewer</h2>
+          <p>by zapboy216</p>
         </div>
       </div>
       <div className="row">
