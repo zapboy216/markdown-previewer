@@ -1,3 +1,13 @@
 body {
   background-color: rgb(235, 233, 233);
+  font-family: 'Orbitron', sans-serif;
 }
+
+#editor, #preview {
+  border: 2px solid black;
+}
+
+h2 {
+  font-family: 'Orbitron', sans-serif;
+}
+
