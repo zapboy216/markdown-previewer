@@ -2,6 +2,11 @@ import React, { useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { marked } from 'marked'; // Import the marked library
 
+marked.setOptions({
+  breaks: true, // This will convert carriage returns to <br>
+});
+
+
 function App() {
   // State to store the current markdown text
   const [markdown, setMarkdown] = useState(initialMarkdown);
@@ -69,6 +74,7 @@ function helloWorld() {
 
 > Blockquote
 
+![React Logo](https://reactjs.org/logo-og.png)
 
 **This is bold text**
 `;
