@@ -27,6 +27,7 @@ function App() {
       <div className="row">
         <div className="col-12 text-center mb-4">
           <h2>Impressive Markdown Previewer</h2>
+          <p>by zapboy216</p>
         </div>
       </div>
       <div className="row">
@@ -57,7 +58,11 @@ function App() {
 const initialMarkdown = `
 # Welcome to my React Markdown Previewer!
 
+![React Logo](images/zapboy216l.jpg)
+
 ## This is a sub-heading...
+
+**This is bold text freecodecamp Rocks**
 
 [Visit GitHub](https://github.com/zapboy216)
 
@@ -74,9 +79,7 @@ function helloWorld() {
 
 > Blockquote
 
-![React Logo](images/zapboy216m.jpg)
 
-**This is bold text**
 `;
 
 export default App;
