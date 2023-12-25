@@ -59,7 +59,7 @@ const initialMarkdown = `
 
 ## This is a sub-heading...
 
-[Visit GitHub](https://github.com)
+[Visit GitHub](https://github.com/zapboy216)
 
 \`<div>some inline code</div>\`
 
@@ -74,7 +74,7 @@ function helloWorld() {
 
 > Blockquote
 
-![React Logo](https://reactjs.org/logo-og.png)
+![React Logo](images/zapboy216m.jpg)
 
 **This is bold text**
 `;
