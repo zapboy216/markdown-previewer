@@ -3,7 +3,7 @@
 
 # React Markdown Previewer
 
-This project is the freecodecam challenge Markdown Previewer built with React.js. It allows users to enter GitHub flavored Markdown into an editor and see a live preview of the rendered HTML.
+ Markdown Previewer built with React.js. It allows users to enter GitHub flavored Markdown into an editor and see a live preview of the rendered HTML.
 
 ## Features
 
